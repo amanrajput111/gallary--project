@@ -1,0 +1,19 @@
+ 
+
+ 
+*{
+  background-color: black;
+  color: aliceblue;
+}
+
+button{
+  padding: 20px 30px;
+  background-color: azure;
+  color: black;
+  gap: 20px;
+}
+h1{
+  width: fit-content;
+  background-color: dimgray;
+  padding: 20px;
+}
